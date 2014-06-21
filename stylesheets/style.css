@@ -1,0 +1,28 @@
+body {
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.closed-image {
+  width: 300px;
+  margin:0px auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.offsitestatus-image {
+  width: 426px;
+  margin:0px auto;
+}
+
+.mobiledefense-image {
+  width: 300px;
+  margin:0px auto;
+}
+
+.chatterjet-image {
+  width: 172px;
+  margin:0px auto;
+}
